@@ -1,0 +1,16 @@
+#head{
+    
+    position: sticky;
+    top: 0;
+}
+body{
+    font-family: inter;
+    color: rgb(193, 61, 61);
+}
+
+.head a{
+    color: #fff;
+    margin: 10px;
+    text-decoration: none;
+    
+}
